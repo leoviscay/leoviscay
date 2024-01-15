@@ -1,16 +1,27 @@
-* ### Soy Leonel Viscay 👋
+## Hola, soy Leonel Viscay 👋
 
-<!--
-**leoviscay/leoviscay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨🏻‍💻  Sobre mi:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * 🎓   Actualmente estoy estudiando en SoyHenry la carrera de Ciencia de Datos.
+
+  * 💼   Estoy abierto a oportunidades laborales relacionadas con Machine Learning y Análisis de datos.
+
+  * 🌱   Me encuentro continuamente estudiando y aprendiendo nuevas tecnologías.
+
+
+🛠  Habilidades técnicas
+  * 💻   Python SQL Markdown
+  
+  * 📚   Pandas Numpy Matplotlib Seaborn Scikitlearn FastAPI Streamlit
+  
+  * 🛢   MySQL BigQuery Postgres SQLite Apache Cassandra MongoDB
+    
+  * 📊   Power BI
+    
+  * ⚙️   Git GitHub GitHub Actions Jupyter Visual Studio Code
+    
+  * ☁️   Render
+
+🤝🏻  Me encuentro en
+[LinkedIn](https://www.linkedin.com/in/leonel-viscay-8256911bb/)
