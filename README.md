@@ -2,8 +2,7 @@
 
 
 👨🏻‍💻  Sobre mi:
-
-  * 🎓   Actualmente estoy estudiando en SoyHenry la carrera de Ciencia de Datos.
+  * 🎓   Actualmente estoy estudiando en SoyHenry la carrera de Ciencia de Datos y en UNICEN, la carrera de Técnico en Desarrollo de Aplicaciones Infórmaticas
 
   * 💼   Estoy abierto a oportunidades laborales relacionadas con Machine Learning y Análisis de datos.
 
