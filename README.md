@@ -10,17 +10,17 @@
 
 
 🛠  Habilidades técnicas
-  * 💻   Python SQL Markdown
+  * 💻   Python | SQL 
   
-  * 📚   Pandas Numpy Matplotlib Seaborn Scikitlearn FastAPI Streamlit
+  * 📚   Pandas | Numpy | Matplotlib | Seaborn | Scikitlearn | FastAPI 
   
-  * 🛢   MySQL BigQuery Postgres SQLite Apache Cassandra MongoDB
+  * 🛢   MySQL | MongoDB
     
   * 📊   Power BI
     
-  * ⚙️   Git GitHub GitHub Actions Jupyter Visual Studio Code
+  * ⚙️   Git | GitHub | Jupyter | Visual Studio Code
     
-  * ☁️   Render
+  * ☁️   Render | Streamlit
 
 🤝🏻  Me encuentro en
 [LinkedIn](https://www.linkedin.com/in/leonel-viscay-8256911bb/)
