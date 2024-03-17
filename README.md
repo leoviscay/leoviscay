@@ -23,5 +23,5 @@
     
   * ☁️  ![Streamlit](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B3E&logo=streamlit&logoColor=ffffff&label=)
 
-🤝🏻  Me encuentro en [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonel-viscay/)](https://www.linkedin.com/in/leonel-viscay)
+🤝🏻  Me encuentro en [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonel-viscay/)](https://www.linkedin.com/in/leonel-viscay)  <a href="https://www.linkedin.com/in/leonel-viscay/" target="_blank">
 
