@@ -18,7 +18,7 @@
     
   * 📊   ![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=ffeb3b&logo=PowerBI&logoColor=ffffff&label=) 
     
-  * ⚙️   ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=git&logoColor=ffffff&label=) | ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=github&logoColor=ffffff&label=) | ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=jupyter&logoColor=ffffff&label=) | ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=visual-studio-code&logoColor=ffffff&label=)
+  * ⚙️   ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=git&logoColor=ffffff&label=)  ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=github&logoColor=ffffff&label=)  ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=jupyter&logoColor=ffffff&label=)  ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=visual-studio-code&logoColor=ffffff&label=)
 
     
   * ☁️  ![Streamlit](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B3E&logo=streamlit&logoColor=ffffff&label=)
